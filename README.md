@@ -1,13 +1,14 @@
 # Projeto Tela de Login
 
 Este é um projeto de uma tela de login responsiva desenvolvida com HTML e CSS. O objetivo é praticar a construção de interfaces modernas e acessíveis com foco em responsividade e organização de código.
+![image](https://github.com/user-attachments/assets/f7c26e5f-82ec-462b-bbce-67461c515d29)
 
 ## 📌 Funcionalidades
 
 - Layout centralizado e responsivo
 - Estilo moderno com animação de entrada
 - Estrutura de código limpa e organizada
-- Recursos básicos de acessibilidade (uso de labels, `aria-label`, etc.)
+- Recursos básicos de acessibilidade
 - Compatibilidade com diferentes tamanhos de tela
 
 ## 🗂 Estrutura de Pastas
@@ -44,5 +45,6 @@ A interface foi construída com técnicas de CSS responsivo, adaptando-se bem a 
 ---
 
 **Autor:** Robert Alves
+**Designer:** Figma
 **Licença:** Livre para uso educacional
 
