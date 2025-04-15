@@ -45,6 +45,6 @@ A interface foi construída com técnicas de CSS responsivo, adaptando-se bem a 
 
 ---
 
-**Autor(a):** Você  
+**Autor:** Robert Alves
 **Licença:** Livre para uso educacional
 
