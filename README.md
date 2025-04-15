@@ -33,9 +33,7 @@ A interface foi construída com técnicas de CSS responsivo, adaptando-se bem a 
 
 ## 🚀 Como Visualizar o Projeto Online
 
-1. Clone o repositório ou baixe os arquivos.
-2. Abra o arquivo `index.html` em um navegador moderno.
-3. Explore a tela de login em diferentes dispositivos ou tamanhos de janela.
+`login-projeto` https://robertsilvaalves.github.io/tela-de-login/
 
 ## 💡 Melhorias Futuras
 
