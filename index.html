@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tela de Login</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container">
+    <img class="logo" src="imagem/Group.png" alt="Logotipo da empresa" />
+
+    <form class="container__form" action="#" method="post" role="form" autocomplete="on">
+      <div class="preenchimento">
+        <label for="iname">
+          <img src="imagem/user.png" alt="Ícone de usuário" /> Username
+        </label>
+        <input type="text" name="name" id="iname" required aria-label="Nome de usuário" autocomplete="name" />
+      </div>
+
+      <div class="preenchimento">
+        <label for="isenha">
+          <img src="imagem/lock.png" alt="Ícone de cadeado" /> Senha
+        </label>
+        <input type="password" name="senha" id="isenha" required aria-label="Senha" autocomplete="current-password" />
+      </div>
+
+      <input class="login" type="submit" value="Login" />
+
+      <p class="esqueci_a_senha">
+        <a href="#">Esqueci a senha</a>
+      </p>
+    </form>
+  </main>
+
+  <footer>
+    <p>Criado por Robert Alves</p>
+  </footer>
+</body>
+</html>
