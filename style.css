@@ -138,4 +138,19 @@
       transform: translateY(0);
     }
   }
+
+  .github{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-size: 1.2em;
+  }
+
+  .github:hover{
+    text-shadow: 3px 4px 6px black;
+    border-bottom: 1px solid white;
+    padding-bottom: 2px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+  }
   
