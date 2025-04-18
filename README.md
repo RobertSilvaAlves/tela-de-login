@@ -1,6 +1,13 @@
 # Projeto Tela de Login
 
 Este é um projeto de uma tela de login responsiva desenvolvida com HTML e CSS. O objetivo é praticar a construção de interfaces modernas e acessíveis com foco em responsividade e organização de código.
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![Responsivo](https://img.shields.io/badge/RESPONSIVO-SIM-22d4fd?style=for-the-badge)](#)
+
+
+
 ![image](https://github.com/user-attachments/assets/f7c26e5f-82ec-462b-bbce-67461c515d29)
 
 ## 📌 Funcionalidades
