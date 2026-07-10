@@ -41,7 +41,7 @@ A interface foi construída com técnicas de CSS responsivo, adaptando-se bem a 
 
 ## 🚀 Como Visualizar o Projeto Online
 
-`Acesse ➡` [site tela login](https://robertsilvaalves.github.io/tela-de-login/)
+`Acesse ➡` [site tela login](https://tela-de-login-flax.vercel.app/)
 
 ## 💡 Melhorias Futuras
 
