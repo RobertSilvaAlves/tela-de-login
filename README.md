@@ -32,10 +32,9 @@ A interface foi construída com técnicas de CSS responsivo, adaptando-se bem a 
 - CSS3
 - JavaScript
 
-## 🚀 Como Visualizar o Projeto Online
+## 🚀 Como Visualizar o Projeto Online 
 
-`Acesse ➡` [site tela login](https://tela-de-login-flax.vercel.app/)
-
+[![Acesse](https://img.shields.io/badge/Acesse_aqui-FFFF00?style=for-the-badge&logo=Acesse&logoColor=white)](https://tela-de-login-flax.vercel.app/)
 ## 💡 Melhorias Futuras
 
 - Integração com sistemas de autenticação reais
@@ -48,11 +47,13 @@ A interface foi construída com técnicas de CSS responsivo, adaptando-se bem a 
 **Robert Alves**  
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobertSilvaAlves) 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertalves-/)
+
+
+
+
+**Designer:**
+
 [![FIGMA](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/FIGMA)
-
-
-
-**Designer:** Figma
 
 **Licença:** Livre para uso educacional
 
