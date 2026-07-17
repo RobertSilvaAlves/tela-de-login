@@ -21,18 +21,6 @@ Este é um projeto de uma tela de login responsiva desenvolvida com HTML e CSS. 
 - Compatibilidade com diferentes tamanhos de tela
 - Validação de formulário
 
-## 🗂 Estrutura de Pastas
-
-tela-de-login/
-├── index.html         # Estrutura HTML da tela de login
-├── style.css          # Estilos da interface
-|── validation.js      # validação de formulário
-├── imagem/            # Imagens utilizadas (ícones, background, logo)
-│   ├── BG.png
-│   ├── Group.png
-│   ├── user.png
-│   └── lock.png
-
 
 ## 📱 Responsividade
 
