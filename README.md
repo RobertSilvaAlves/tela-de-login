@@ -4,11 +4,13 @@ Este é um projeto de uma tela de login responsiva desenvolvida com HTML e CSS. 
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JAVASCRIPT)
 [![Responsivo](https://img.shields.io/badge/RESPONSIVO-SIM-22d4fd?style=for-the-badge)](#)
 
 
 
-![image](https://github.com/user-attachments/assets/f7c26e5f-82ec-462b-bbce-67461c515d29)
+<img width="1262" height="573" alt="image" src="https://github.com/user-attachments/assets/351a49d1-5a1a-4897-bd42-d3b449735ed6" />
+
 
 ## 📌 Funcionalidades
 
@@ -17,12 +19,14 @@ Este é um projeto de uma tela de login responsiva desenvolvida com HTML e CSS. 
 - Estrutura de código limpa e organizada
 - Recursos básicos de acessibilidade
 - Compatibilidade com diferentes tamanhos de tela
+- Verificação de dados corretos
 
 ## 🗂 Estrutura de Pastas
 
 tela-de-login/
 ├── index.html         # Estrutura HTML da tela de login
 ├── style.css          # Estilos da interface
+|── validation.js      # validação de formulário
 ├── imagem/            # Imagens utilizadas (ícones, background, logo)
 │   ├── BG.png
 │   ├── Group.png
@@ -38,6 +42,7 @@ A interface foi construída com técnicas de CSS responsivo, adaptando-se bem a 
 
 - HTML5
 - CSS3
+- JavaScript
 
 ## 🚀 Como Visualizar o Projeto Online
 
@@ -46,7 +51,6 @@ A interface foi construída com técnicas de CSS responsivo, adaptando-se bem a 
 ## 💡 Melhorias Futuras
 
 - Integração com sistemas de autenticação reais
-- Inclusão de mensagens de erro ou validação de formulário
 - Melhorias adicionais na acessibilidade e navegação por teclado
 
 ---
