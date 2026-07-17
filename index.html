@@ -5,24 +5,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Tela de Login</title>
   <link rel="stylesheet" href="style.css" />
+  <script src="validation.js" defer></script>
 </head>
 <body>
-  <main class="container">
-    <img class="logo" src="imagem/Group.png" alt="Logotipo da empresa" />
+  <main class="container" id="loginTela">
+    <img class="logo" src="imagem/robo_login1.png" alt="Logotipo da empresa" id="ilogo"/>
 
     <form class="container__form" action="#" method="post" role="form" autocomplete="on">
       <div class="preenchimento">
         <label for="iname">
-          <img src="imagem/user.png" alt="Ícone de usuário" /> Username
+          <img src="imagem/user.png" alt="Ícone de usuário" /> User name
         </label>
-        <input type="text" name="name" id="iname" required aria-label="Nome de usuário" autocomplete="name" />
+        <input type="text" name="name" id="iname" required aria-label="Nome de usuário" autocomplete="name" placeholder="Digite seu nome de usuário" />
+        <p id="iname-error" class="error-message"></p>
       </div>
 
       <div class="preenchimento">
         <label for="isenha">
           <img src="imagem/lock.png" alt="Ícone de cadeado" /> Senha
         </label>
-        <input type="password" name="senha" id="isenha" required aria-label="Senha" autocomplete="current-password" />
+        <input type="password" name="senha" id="isenha" required aria-label="Senha" autocomplete="current-password" placeholder="Digite sua senha" />
+        <span id="olho" onclick="mostrarSenha()"><img src="https://cdn-icons-png.flaticon.com/512/822/822153.png" alt=""></span>
+        <p id="isenha-error" class="error-message"></p>
       </div>
 
       <input class="login" type="submit" value="Login" />
