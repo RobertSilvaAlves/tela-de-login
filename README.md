@@ -19,7 +19,7 @@ Este é um projeto de uma tela de login responsiva desenvolvida com HTML e CSS. 
 - Estrutura de código limpa e organizada
 - Recursos básicos de acessibilidade
 - Compatibilidade com diferentes tamanhos de tela
-- Verificação de dados corretos
+- Validação de formulário
 
 ## 🗂 Estrutura de Pastas
 
