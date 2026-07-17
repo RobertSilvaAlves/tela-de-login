@@ -46,7 +46,11 @@ A interface foi construída com técnicas de CSS responsivo, adaptando-se bem a 
 ## 👤 Desenvolvido por
 
 **Robert Alves**  
-[GitHub](https://github.com/RobertSilvaAlves)  [LinkedIn](https://www.linkedin.com/in/robertalves-/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobertSilvaAlves) 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertalves-/)
+[![FIGMA](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/FIGMA)
+
+
 
 **Designer:** Figma
 
